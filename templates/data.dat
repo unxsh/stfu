@@ -1,0 +1,37 @@
+-g --generate
+
+ Service name:
+->
+
+ Service description:
+->
+
+ Service user:
+->
+
+ Service working dir:
+->
+
+ Service exec:
+->
+
+ Service must restart?
+1) yes
+2) no
+->
+
+
+
+-h --help flag
+
+ STFU - system file unit tracker
+
+  -g --generate | generate new daemon
+  -h --help     | print this message
+  -v -version   | print program version
+
+
+
+-v --version flag
+
+stfu - 0.1.0
